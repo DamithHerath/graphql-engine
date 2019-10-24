@@ -97,6 +97,8 @@ The README of the CLI repository can be found [here](https://github.com/hasura/g
 
 - Don't add a period/dot (.) at the end of the summary line.
 
+## Add Changes
+
 ## Translations
 
 This document is available in the following translations:
